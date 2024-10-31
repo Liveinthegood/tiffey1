@@ -1,0 +1,1004 @@
+
+* {
+  margin:0;
+  padding: 0;
+}
+
+
+
+
+.brandi{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 15px;
+    height:100%;
+    width:100%;
+  
+  
+  
+  }
+
+
+
+  .brandicasual{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 115px;
+    padding-bottom: 82px;
+    height:70%;
+    width:70%;
+
+  }
+  
+
+p {
+
+    font-size: 1em;
+}
+
+.headshot {
+
+    float: left;
+    height: 50px;
+    padding-left: 40px;
+}
+
+
+
+/* media query for desktop *//* media query for desktop *//* media query for desktop *//* media query for desktop */
+
+
+
+
+@media screen and (min-width:1024px) {
+
+
+  .beautifulsoul {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+    padding-bottom: 82px;
+    height:70%;
+    width:70%;
+
+  }
+
+
+
+  .threeFunFactsTitle {
+
+    font-size: 60px;
+    color: purple;
+    padding-bottom: 50px;
+  }
+
+  /* Yellow box steps for online shopping on index page */
+
+.stepsshopping{
+
+  font-size: 55px;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: white;
+  color:black;
+}
+
+.stepsOne{
+
+  color:black;
+  font-size: 50px;
+
+}
+
+
+.words{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 130px;
+  font-size: 34px;
+}
+
+
+
+
+
+  .sevenfacts{
+
+    font-size: 60px;
+  }
+
+
+  hr {
+
+    border: solid purple 6px;
+    border-bottom: none;
+    width: 100%;
+    margin: 100px auto;
+  }
+
+
+.BodyPic{
+
+  display: block;
+  height: 20%;
+  width: 20%;
+  float:left;
+  margin-left: 20px;
+  margin-bottom: 60px;
+}
+
+.wordsmiddle {
+
+  background-color: yellow;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+
+}
+
+
+    /*index page only */
+
+    /*nav bar section only start */
+
+    .btn3 {
+      background: yellow;
+      background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+      background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+      background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+      background-image: -o-linear-gradient(top, #F63D3D, #811616);
+      background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+      -webkit-border-radius: 20px;
+      -moz-border-radius: 20px;
+      border-radius: 20px;
+      height: 55px;
+      line-height: 10px;
+      color: white;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      width: 80%;
+      font-size: 66px;
+      font-weight: 900;
+      padding: 28px;
+      padding-right: 30px;
+      padding-top: 30px;
+      -webkit-box-shadow: 1px 1px 6px 0 #000000;
+      -moz-box-shadow: 1px 1px 6px 0 #000000;
+      box-shadow: 1px 1px 6px 0 #000000;
+      text-shadow: 1px 1px 6px #000000;
+      border: solid #762C2C 1px;
+      text-decoration: none;
+      display: inline-block;
+      cursor: pointer;
+      text-align: center;
+      margin-bottom: 70px;
+   
+   }
+
+    .navbar {
+      padding-bottom: 1.5rem;
+      color: white;
+      
+      }
+      
+      .nav-item {
+      padding: 0 10px;
+      
+      
+      }
+      
+      .nav-link{
+      font-size: 35px;
+      color: white;
+      
+      }
+      
+      .navbar-brand {
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+      font-size: 2.5rem;
+      font-weight: bold;
+      padding-left: 50px;
+      color: white;
+      
+      }
+
+          /*nav bar section only end */
+
+          #Headline{
+
+            font-size:55px;
+            color:red;
+            padding-right: 35px;
+            padding-left: 35px;
+            background-color: black;
+        
+        
+        }
+
+        #HeadlineMobile {
+
+          font-size:75px;
+          color:black;
+          padding-right: 35px;
+          padding-left: 35px;
+          padding-top: 55px;
+          padding-bottom: 95px;
+          background-color: white;
+          text-align: center;
+        
+        
+        }
+
+        .pro5 {
+            color: white;
+        }
+
+        .player-image{
+
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            padding-top: 25px;
+            padding-bottom: 25px;
+            height:50%;
+            width:50%;
+          
+          }
+
+          .player-imageMobile{
+
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            padding-top: 25px;
+            padding-bottom: 25px;
+            height:100%;
+            width:100%;
+            display: none;
+          
+          }
+
+.bodycopy {
+
+    font-size: 60px;
+    color: black;
+    padding-top: 25px;
+    padding-right: 55px;
+    padding-left: 45px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: none;
+
+
+
+}
+
+.bodycopydesk {
+
+  font-size: 40px;
+  color: black;
+  padding-top: 25px;
+  padding-right: 55px;
+  padding-left: 45px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+
+.welcome{
+
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 105px;
+
+}
+
+#features{
+
+  padding:7% 15%;
+  background-color: #FFC20E;
+  position: relative;
+
+}
+
+.HeaderTrueLove{
+
+  text-align: center;
+}
+
+
+  #testimonials {
+
+    font-size: 52px;
+    width: 100%;
+    text-align: center;
+    background-color: #13274F;
+
+
+  }
+
+.player-title {
+
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 50px;
+
+
+
+}
+
+  .picture {
+
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+
+  .meetplayers{
+
+    padding-top: 25px;
+    font-size: 105px;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  .pro {
+
+    text-decoration: underline;
+    color: red;
+  }
+
+  
+
+
+  /*footer section */
+
+
+  .brandiHeart {
+
+    padding: 50px;
+    text-align: center;
+    font-size: 38px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: pink;
+  }
+
+  .footercopy {
+    color: black;
+    font-size: 40px;
+  }
+
+
+
+}
+
+  /*players pages */
+
+  
+
+
+  .playersTitlename{
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 75px;
+    line-height: 1.5;
+    font-weight: 900;
+    padding-left: 50px;
+  
+
+
+  }
+
+
+
+  .player-text {
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #EAAA00;
+    font-size: 45px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+  }
+
+  .namelocation{
+
+    font-size: 52px;
+    line-height: 1.5;
+    width:100%;
+    text-align: center;
+    color: white;
+    padding-bottom: 50px;
+  }
+
+
+
+/* media query for tablet *//* media query for tablet *//* media query for tablet *//* media query for tablet */
+
+@media screen and (min-width:768px) and (max-width: 1023px) {
+
+  .BodyPic{
+
+    display: block;
+    height: 100%;
+    width: 100%;
+    margin-left: 20px;
+    margin-bottom: 50px;
+  }
+
+
+/* Yellow box steps for online shopping on index page */
+
+.stepsshopping{
+
+  font-size: 55px;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: white;
+  color:black;
+}
+
+.stepsOne{
+
+  color:black;
+  font-size: 50px;
+
+}
+
+.threeFunFactsTitle {
+
+  font-size: 60px;
+  color: purple;
+  padding-bottom: 50px;
+}
+
+
+  .sevenfacts{
+
+    font-size: 60px;
+  }
+
+  .player-text {
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #EAAA00;
+    font-size: 49px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+  }
+
+  hr {
+
+    border: solid red 16px;
+    border-bottom: none;
+    width: 74%;
+    margin: 100px auto;
+      
+
+  }
+
+  .main-text{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 90px;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+
+
+
+
+  .btn3 {
+    background: yellow;
+    background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+    background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+    background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+    background-image: -o-linear-gradient(top, #F63D3D, #811616);
+    background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 55px;
+    line-height: 10px;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 80%;
+    font-size: 66px;
+    font-weight: 900;
+    padding: 28px;
+    -webkit-box-shadow: 1px 1px 6px 0 #000000;
+    -moz-box-shadow: 1px 1px 6px 0 #000000;
+    box-shadow: 1px 1px 6px 0 #000000;
+    text-shadow: 1px 1px 6px #000000;
+    border: solid #762C2C 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 20px;
+ 
+ }
+
+    .pro5 {
+        color: white;
+    }
+
+
+    #Headline{
+
+      font-size:55px;
+      color:red;
+      padding-right: 35px;
+      padding-left: 35px;
+      display: none;
+  
+  
+  }
+
+   /*Main Headline for Tablet view */
+
+
+   #HeadlineMobile {
+
+    font-size:75px;
+    color:black;
+    padding-right: 35px;
+    padding-left: 35px;
+    padding-top: 55px;
+    padding-bottom: 95px;
+    background-color: white;
+    text-align: center;
+
+  
+  
+  }
+
+    .brandi {
+        width: 100%;
+        height: 100%;
+        
+    }
+
+    .bodycopy {
+
+        font-size: 60px;
+        color: black;
+        padding-right: 55px;
+        padding-left: 35px;
+        background-color: white;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+    
+    }
+
+    .bodycopydesk {
+
+      font-size: 40px;
+      color: black;
+      padding-top: 25px;
+      padding-right: 55px;
+      padding-left: 45px;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      display: none;
+    
+    }
+
+
+      /*nav bar section only start */
+
+    .navbar {
+      padding-bottom: 1.5rem;
+      
+      }
+      
+      .nav-item {
+      padding: 0 10px;
+      
+      
+      }
+      
+      .nav-link{
+      font-size: 35px;
+      
+      }
+      
+      .navbar-brand {
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 2.5rem;
+      font-weight: bold;
+      padding-left: 50px;
+      color: white;
+
+      
+      }
+
+          /*nav bar section only end */
+
+  .player-image{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height:100%;
+    width:100%;
+  
+
+  }
+  .player-imageMobile{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height:100%;
+    width:100%;
+  
+  }
+
+  #testimonials {
+
+    font-size: 52px;
+    width: 100%;
+    text-align: center;
+    background-color: #13274F;
+
+
+  }
+
+  .meetplayers{
+
+    padding-top: 25px;
+    font-size: 105px;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.welcome{
+
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 105px;
+
+}
+
+#features{
+
+  padding:7% 15%;
+  background-color: #FFC20E;
+  position: relative;
+
+}
+
+}
+
+.picture {
+
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.player-title {
+
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 50px;
+
+
+
+}
+
+.brandiHeart {
+
+    padding: 50px;
+    text-align: center;
+    font-size: 38px;
+    background-color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: pink;
+
+  }
+
+  .footercopy {
+    color: black;
+    font-size: 40px;
+
+  }
+
+.pro {
+
+  text-decoration: underline;
+  color: red;
+}
+
+
+/* media query for mobile *//* media query for mobile *//* media query for mobile *//* media query for tablet */
+
+@media screen and (min-width:180px) and (max-width: 768px) {
+
+  /* Yellow box steps for online shopping on index page */
+
+.stepsshopping{
+
+  font-size: 55px;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: white;
+  color:black;
+}
+
+.BodyPic{
+
+  display: block;
+  height: 100%;
+  width: 100%;
+  margin-left: 20px;
+  margin-bottom: 50px;
+}
+
+
+.threeFunFactsTitle {
+
+  font-size: 60px;
+  color: purple;
+  padding-bottom: 50px;
+}
+
+
+
+hr {
+
+  border: solid black 6px;
+  border-bottom: none;
+  width: 100%;
+  margin: 100px auto;
+}
+
+
+
+
+  .sevenfacts{
+
+    font-size: 60px;
+  }
+
+  .player-text {
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #EAAA00;
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+  }
+
+
+
+
+
+  .footercopy {
+    color: black;
+    text-align: center;
+    font-size: 40px;
+
+  }
+
+
+
+  .btn3 {
+    background: yellow;
+    background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+    background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+    background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+    background-image: -o-linear-gradient(top, #F63D3D, #811616);
+    background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 55px;
+    line-height: 10px;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 80%;
+    font-size: 66px;
+    font-weight: 900;
+    padding: 28px;
+    -webkit-box-shadow: 1px 1px 6px 0 #000000;
+    -moz-box-shadow: 1px 1px 6px 0 #000000;
+    box-shadow: 1px 1px 6px 0 #000000;
+    text-shadow: 1px 1px 6px #000000;
+    border: solid #762C2C 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 20px;
+ 
+ }
+
+  #Headline{
+
+    font-size:55px;
+    color:red;
+    padding-right: 35px;
+    padding-left: 35px;
+    display: none;
+
+
+}
+
+ /*Main Headline for Mobile view */
+
+
+#HeadlineMobile {
+
+  font-size:75px;
+  color:black;
+  padding-right: 35px;
+  padding-left: 35px;
+  padding-top: 55px;
+  padding-bottom: 95px;
+  background-color: white;
+  text-align: center;
+
+
+
+}
+
+    .brandi {
+        width: 100%;
+        height: 100%;
+        
+    }
+
+    .bodycopy {
+
+        font-size: 60px;
+        color: black;
+        padding-right: 55px;
+        padding-left: 35px;
+        width: 100%;
+        height: 100%;
+
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+    
+    }
+
+    .bodycopydesk {
+
+      font-size: 40px;
+      color: black;
+      padding-top: 25px;
+      padding-right: 55px;
+      padding-left: 45px;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    }
+
+  
+
+  .pro {
+
+    text-decoration: underline;
+    color: red;
+  }
+
+
+  .player-image{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height:100%;
+    width:100%;
+  
+
+  }
+
+  .player-imageMobile{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height:100%;
+    width:100%;
+  
+  }
+
+  #testimonials {
+
+    font-size: 52px;
+    width: 100%;
+    text-align: center;
+    background-color: #13274F;
+
+
+  }
+
+  .meetplayers{
+
+    padding-top: 25px;
+    font-size: 105px;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.welcome{
+
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 400%;
+  background-color: #FFC20E;
+
+}
+
+.navbar-brand {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding-left: 50px;
+  color: white;
+
+  
+  }
+
+  .pro5 {
+    color: white;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
